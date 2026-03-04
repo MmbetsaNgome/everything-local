@@ -1,1 +1,3 @@
-This is information that has been added remotely. 
+Information that has been added remotely from the main. 
+
+I have added this from my branch 
